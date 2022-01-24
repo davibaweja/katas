@@ -1,0 +1,8 @@
+https://www.codewars.com/kata/52774a314c2333f0a7000688/train/javascript
+
+
+# Interesting katas not done!
+
+https://www.codewars.com/kata/52a89c2ea8ddc5547a000863/train/javascript
+https://www.codewars.com/kata/52c4dd683bfd3b434c000292/train/javascript   => can do this
+
